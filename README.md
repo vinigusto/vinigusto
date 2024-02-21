@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinigusto
-- 👀 I’m interested in Game Development, C#, politics and many many random stuff
-- 🌱 I’m currently learning C# and Russian
+- 👀 I’m interested in Game Development, Computer Sciences, karate and many many random stuff
+- 🌱 I’m currently taking Harvard´s CS50x course
 - 📫 How to reach me vinigusto.souza@gmail.com
 
 <!---
