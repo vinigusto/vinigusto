@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @vinigusto
-- 👀 I’m interested in Game Development, Computer Sciences, karate and many many random stuff
-- 🌱 I’m currently taking Harvard´s CS50x course
-- 📫 How to reach me vinigusto.souza@gmail.com
+- 👋 Hi, I’m @vinigusto  
+- 👨‍💻 I’m a Game Developer using Unity  
+- 🎓 I’m studying Computer Science at UFU (Universidade Federal de Uberlândia)  
+- 👀 I’m interested in Game Development, Computer Sciences, karate, volleyball and many many random stuff  
+- 🌱 I’m currently retaking Harvard’s CS50x course  
+- 📫 How to reach me: viniciusdesouza@ufu.br  
 
 <!---
 vinigusto/vinigusto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
