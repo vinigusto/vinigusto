@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinigusto  
-- 👨‍💻 I’m a Game Developer using Unity  
+- 👨‍💻 I’m a Game Developer and Junior Front-End Developer at NTT DATA
 - 🎓 I’m studying Computer Science at UFU (Universidade Federal de Uberlândia)  
 - 👀 I’m interested in Game Development, Computer Sciences, karate, volleyball and many many random stuff  
 - 🌱 I’m currently retaking Harvard’s CS50x course  
